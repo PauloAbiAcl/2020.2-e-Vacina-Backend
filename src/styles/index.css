@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+ margin: 0;
+ padding: 0;
+}
+
+#seringa{
+ width: 250px;
+}
+
+#banner{
+ 
+ position: absolute;
+ 
+ left: 0;
+ top: 0;
+
+ height: 95vh;
+ width: 100vw;
+
+
+
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+ color: white;
+ font-family: 'Poppins', sans-serif;
+ font-size: 2.5rem;
+}
